@@ -1,0 +1,114 @@
+INFO  started: Metals version 0.8.0 in workspace '/home/drai06/Escritorio/Scala'
+INFO  time: initialize in 1.12s
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/drai06/Escritorio/Scala/holamundo.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target for: /home/drai06/Escritorio/Scala/holamundo.scala
+WARN  no build target for: /home/drai06/Escritorio/Scala/holamundo.scala
+WARN  no build target for: /home/drai06/Escritorio/Scala/holamundo.scala
+WARN  no build target for: /home/drai06/Escritorio/Scala/HolaScala.scala
+WARN  no build target for: /home/drai06/Escritorio/Scala/HolaScala.scala
+WARN  no build target for: /home/drai06/Escritorio/Scala/worksheet.scala
+WARN  no build target for: /home/drai06/Escritorio/Scala/worksheet.scala
+WARN  no build target for: /home/drai06/Escritorio/Scala/worksheet.scala
+WARN  no build target for: /home/drai06/Escritorio/Scala/worksheet.scala
+WARN  no build target for: /home/drai06/Escritorio/Scala/worksheet.scala
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/drai06/Escritorio/Scala/worksheet.scala
+WARN  no build target for: /home/drai06/Escritorio/Scala/worksheet.scala
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/drai06/Escritorio/Scala/worksheet.scala
+WARN  no build target for: /home/drai06/Escritorio/Scala/bucles.scala
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/drai06/Escritorio/Scala/bucle.scala
+WARN  no build target for: /home/drai06/Escritorio/Scala/bucle.scala
+WARN  no build target for: /home/drai06/Escritorio/Scala/coleccion.scala
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/drai06/Escritorio/Scala/coleccion.scala
+WARN  no build target for: /home/drai06/Escritorio/Scala/coleccion.scala
+WARN  no build target for: /home/drai06/Escritorio/Scala/src/worksheet.scala
+WARN  no build target for: /home/drai06/Escritorio/Scala/src/ejercicio.scala
+WARN  no build target for: /home/drai06/Escritorio/Scala/src/coleccion.scala
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/drai06/Escritorio/Scala/src/bucle.scala
+WARN  no build target for: /home/drai06/Escritorio/Scala/src/ejercicio.scala
+WARN  no build target for: /home/drai06/Escritorio/Scala/src/ejercicio.scala
+WARN  no build target for: /home/drai06/Escritorio/Scala/src/ejercicio.scala
+WARN  no build target for: /home/drai06/Escritorio/Scala/src/ejercicio.scala
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/drai06/Escritorio/Scala/src/ejercicio.scala
+WARN  no build target for: /home/drai06/Escritorio/Scala/src/ejercicio.scala
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/drai06/Escritorio/Scala/src/ejercicio.scala
+WARN  no build target for: /home/drai06/Escritorio/Scala/src/ejercicio.scala
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/drai06/Escritorio/Scala/src/ejercicio.scala
+WARN  no build target for: /home/drai06/Escritorio/Scala/src/ejercicio.scala
+something's wrong: no file:///home/drai06/Escritorio/Scala/src/ejercicio.scala in Array[String]RangePosition(file:///home/drai06/Escritorio/Scala/src/ejercicio.scala, 70, 70, 83)
+WARN  no build target for: /home/drai06/Escritorio/Scala/src/ejercicio.scala
+WARN  no build target for: /home/drai06/Escritorio/Scala/src/worksheet.scala
+WARN  no build target for: /home/drai06/Escritorio/Scala/src/HolaScala.scala
+WARN  no build target for: /home/drai06/Escritorio/Scala/src/Persona.scala
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/drai06/Escritorio/Scala/src/Persona.scala
+WARN  no build target for: /home/drai06/Escritorio/Scala/src/HolaScala.scala
+WARN  no build target for: /home/drai06/Escritorio/Scala/src/HolaScala.scala
+WARN  no build target for: /home/drai06/Escritorio/Scala/src/HolaScala.scala
+WARN  no build target for: /home/drai06/Escritorio/Scala/src/ejercicio.scala
+WARN  no build target for: /home/drai06/Escritorio/Scala/src/Ejercicio2.scala
+WARN  no build target for: /home/drai06/Escritorio/Scala/src/ejercicio.scala
+WARN  no build target for: /home/drai06/Escritorio/Scala/src/ejercicio.scala
+WARN  no build target for: /home/drai06/Escritorio/Scala/src/ejercicio.scala
+WARN  no build target for: /home/drai06/Escritorio/Scala/src/ejercicio.scala
+mar. 07, 2020 6:35:36 A. M. scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: offset 81, count -1, length 102
+java.lang.StringIndexOutOfBoundsException: offset 81, count -1, length 102
+	at java.base/java.lang.String.checkBoundsOffCount(String.java:3304)
+	at java.base/java.lang.String.rangeCheck(String.java:280)
+	at java.base/java.lang.String.<init>(String.java:276)
+	at scala.tools.nsc.interactive.Global.typeCompletions$1(Global.scala:1230)
+	at scala.tools.nsc.interactive.Global.completionsAt(Global.scala:1253)
+	at scala.meta.internal.pc.SignatureHelpProvider.$anonfun$treeSymbol$1(SignatureHelpProvider.scala:369)
+	at scala.Option.map(Option.scala:230)
+	at scala.meta.internal.pc.SignatureHelpProvider.treeSymbol(SignatureHelpProvider.scala:368)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCall$.unapply(SignatureHelpProvider.scala:197)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:305)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:300)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.fromTree(SignatureHelpProvider.scala:269)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:26)
+
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/drai06/Escritorio/Scala/src/HolaScala.scala
+WARN  no build target for: /home/drai06/Escritorio/Scala/src/HolaScala.scala
+WARN  no build target for: /home/drai06/Escritorio/Scala/src/HolaScala.scala
+INFO  shutting down Metals
